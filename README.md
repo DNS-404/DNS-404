@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Looking for Divyanshu's profile?
+
+It has been shifted to [github.com/ThatDNS](https://github.com/ThatDNS).
+
+See you there!
 <!--
 **DNS-404/DNS-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
